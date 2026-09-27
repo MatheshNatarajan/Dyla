@@ -1,0 +1,21 @@
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Original Take-Home Prompt (Do not commit)
+dyla_take_home_problems.md.pdf
+
+# Java / Spring Boot
+seller/target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.log
+*.sh
+
+# Go
+buyer/buyer.exe
+buyer/buyer
